@@ -1,4 +1,4 @@
-Hey there! <img src="./waving.gif" width="50">
+Hey there! <img src="./waving.gif" height="1em" style="vertical-align: middle;" />
 
 I’m Sabeshkar — a guy who loves learning, experimenting, and building anything that sparks curiosity.
 
