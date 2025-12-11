@@ -1,4 +1,5 @@
 Hey there! <img src="./waving.gif" width="50">
+
 I’m Sabeshkar — a guy who loves learning, experimenting, and building anything that sparks curiosity.
 
 If something interests me, I’ll dive into it head-first, break it apart, understand how it works, and keep improving until it feels right. I’m always exploring new ideas and leveling myself up one step at a time.
