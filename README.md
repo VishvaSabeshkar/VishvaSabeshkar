@@ -1,20 +1,14 @@
 Hey there!
-I’m Sabeshkar, an IT undergraduate and an aspiring Data Scientist from Sri Lanka.
+I’m Sabeshkar — a guy who loves learning, experimenting, and building anything that sparks curiosity.
 
-I love building things that make me curious — whether it’s a mobile app, a MERN project, or a machine learning model I’m still learning to finesse.
+If something interests me, I’ll dive into it head-first, break it apart, understand how it works, and keep improving until it feels right. I’m always exploring new ideas and leveling myself up one step at a time.
 
-If something sparks my interest, I’ll research it, break it down, and try to build it… even if I have to learn the entire tech stack from scratch.
+I enjoy working on things that challenge me and help me grow — especially when it comes to understanding how data, systems, and real-world problems connect.
 
-My current journey is all about Excel, Python, Machine Learning, and Power BI as I gear up for data science internships in 2025.
-
-My main tech stack (so far) includes Python, SQL, MERN, and Kotlin, and I’m steadily growing my DS toolkit one project at a time.
-
-I’ve built quite a few academic + personal projects already, including a MERN-based photography app and a Kotlin personal finance tracker.
-
-If you want to follow my learning path or see how I’m leveling up my skills, my pinned repos are the best place to start.
+When I’m not in front of the screen, you’ll probably find me working on my fitness goals, cycling, or watching movies.
 
 Fun Facts:
-• I’m a fitness enthusiast working towards an athletic body
-• Big cycling + cardio guy
-• Anime fan (ask me and I’ll rate your favorites)
-• I like building things more than just thinking about them
+• Currently on a journey to build an athletic body
+• I cycle and train weekly
+• Thriller-movie lover (recommend me one and I’ll tell you if I’ve watched it)
+• I learn faster when I’m obsessed with something
