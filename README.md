@@ -1,4 +1,4 @@
-Hey there! <img src="./waving.gif" height="20" style="vertical-align: middle;" />
+### Hey there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 
 I’m Sabeshkar — a guy who loves learning, experimenting, and building anything that sparks curiosity.
 
@@ -8,8 +8,9 @@ I enjoy working on things that challenge me and help me grow — especially when
 
 When I’m not in front of the screen, you’ll probably find me working on my fitness goals, cycling, or watching movies.
 
-Fun Facts:
-• Currently on a journey to build an athletic body
-• I cycle and train weekly
-• Thriller-movie lover (recommend me one and I’ll tell you if I’ve watched it)
-• I learn faster when I’m obsessed with something
+#### Fun Facts:
+
+* Currently on a journey to build an athletic body
+* I cycle and train weekly
+* Thriller-movie lover (recommend me one and I’ll tell you if I’ve watched it)
+* I learn faster when I’m obsessed with something
